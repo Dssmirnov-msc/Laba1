@@ -19,6 +19,7 @@ public class Main {
         System.out.println("Рабы не мы, мы не рыбы");
         System.out.println("Левадний");
         System.out.println("Зорина");
+        System.out.println("Гирман");
     }
     
 }
