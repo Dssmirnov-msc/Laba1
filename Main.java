@@ -16,7 +16,7 @@ public class Main {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Рабы не мы, мы не рыбы");
+        System.out.println("Рабы не мы, мы не рыбы, Румянцева");
         System.out.println("Левадний");
         System.out.println("Зорина");
         System.out.println("Гирман");
