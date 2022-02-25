@@ -9,13 +9,14 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Рабы не мы, мы не рыбы ADEI...DAVS");
+        System.out.println("Рабы не мы, мы не рыбы ADEI...DAVSRL");
         System.out.println("Левадний");
         System.out.println("Зорина");
         System.out.println("Гирман");
         System.out.println("Бондаренко");
         System.out.println("Мичурина");
         System.out.println("Романенков");
+        System.out.println("Кузнецов");
     }
     
 }
