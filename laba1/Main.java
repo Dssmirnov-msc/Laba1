@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Мичурина");
         System.out.println("Романенков");
         System.out.println("Кузнецов");
+        System.out.println("Саломатина");
     }
     
 }
