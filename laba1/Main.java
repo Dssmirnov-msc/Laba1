@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Рабы не мы, мы не рыбы ADEI...DAVSRL");
+        System.out.println("Рабы не мы, мы не рыбы ADEI...DAVSRLN");
         System.out.println("Левадний");
         System.out.println("Зорина");
         System.out.println("Гирман");
@@ -18,7 +18,9 @@ public class Main {
         System.out.println("Романенков");
         System.out.println("Кузнецов");
         System.out.println("Саломатина");
+        System.out.println("Ситдиков");
         System.out.println("Озказанч");
+
     }
     
 }
