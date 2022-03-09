@@ -28,6 +28,7 @@ public class Main {
         System.out.println("Озказанч");
         System.out.println("Румянцева");
         System.out.println("Естехина");
+        System.out.println("Троеглазова");
 >>>>>>> 91959ee0fb01cbd170b78ce5c11f8300483a1318:laba1/Main.java
     }
     
